@@ -1,0 +1,33 @@
+Blood glucose levels for obese patients have a mean of 100 with a standard deviation of 15. A researcher 
+thinks that a diet high in raw cornstarch will have a positive effect on blood glucose levels. A sample 
+of 36 patients who have tried the raw cornstarch diet have a mean glucose level of 108. Test the hypothesis 
+that the raw cornstarch had an effect or not.
+
+Solution:
+
+Follow the above discussed steps to test this hypothesis:
+
+Step-1: State the hypotheses. The population mean is 100.
+
+H0: μ= 100
+H1: μ > 100
+
+Step-2: Set up the significance level. It is not given in the problem so let’s assume it as 5% (0.05).
+
+Step-3: Compute the random chance probability using z score and z-table.
+ 
+z = x-μ/σ
+
+where, μ = Mean
+       σ = Standard Deviation
+
+For this set of data: z= (108-100) / (15/√36)=3.20
+
+You can look at the probability by looking at z- table and p-value associated with 3.20 is 0.9993 i.e. probability 
+of having value less than 108 is 0.9993 and more than or equals to 108 is (1-0.9993)=0.0007.
+
+Step-4: It is less than 0.05 so we will reject the Null hypothesis i.e. there is raw cornstarch effect.
+
+Note: Setting significance level can also be done using z-value known as critical value. Find out the z- value 
+of 5% probability and it is 1.65 (positive or negative, in any direction). Now we can compare calculated z-value 
+with critical value to make a decision.
