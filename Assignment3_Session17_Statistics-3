@@ -1,0 +1,20 @@
+You take the SAT and score 1100. The mean score for the SAT is 1026 and the standard deviation is 209. How well did you 
+score on the test compared to the average test taker?
+
+Write your X-value into the z-score equation. For this sample question the X-value is your SAT score, 1100.
+
+  Z = 1100 - μ / σ
+ 
+Put the mean, μ, into the z-score equation.
+
+  Z = 1100 - 1026 / σ
+ 
+Write the standard deviation, σ into the z-score equation.
+
+  Z = 1100 - 1026 / 206
+ 
+Calculate the answer using a calculator:
+(1100 – 1026) / 209 = 0.354 - This means that your score was 0.354 standard deviation above the mean.
+
+Look up your z-value in the z-table to see what percentage of test-takers scored below you. A z-score of 
+0.354 is 0.1368 + 0.5000 = 0.6368 or 63.68%.
